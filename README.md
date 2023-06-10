@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Dowdle.png](images/Dowdle.png)
 
 Dowdle is an easy-to-use video downloader. All codes were generated with the assistance of ChatGPT. This project aims to develop a user-friendly interface and a handy tool using GPT4. Dowdle allows you to download videos from many websites. However, it's crucial to adhere to local laws and respect copyright when using this tool.
@@ -36,3 +37,6 @@ Changes: We may modify these terms at any time. It is your responsibility to rev
 ### **Governing Law**
 
 These terms are governed by the laws of [Your Jurisdiction].
+=======
+# Dowdle
+>>>>>>> cceac9fe1673b5de38c4474ca30397b16a031911
