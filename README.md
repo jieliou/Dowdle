@@ -7,6 +7,18 @@ Dowdle is an easy-to-use video downloader. All codes were generated with the ass
 
 [Google Drive](https://drive.google.com/drive/folders/1dsVgH8NIt6kY3KN02aHDfXjz2SbAchcK?usp=sharing)
 
+⚠️ Note: The MacOS version is compatible with MacOS 13 and above.
+
+## **Usage & Limitations**
+
+
+- Simply open the Dowdle.exe or Dowdle.app file - there's **no installation needed**!
+- Paste a video URL and click '**Download**'.
+- If you have multiple videos to download, just paste the video URLs, then click the '**Add**' button or press '**Enter**'.
+- Even better, you can copy a link, then click the '**Add**' button or press '**Enter**'. The link will automatically be added to the list.
+- By default, the download path is set to your '**Downloads**' folder. However, you can customize this location as per your preference.
+- Dowdle relies on yt-dlp for downloading videos. Sometimes, certain websites may temporarily block downloads. If this happens, you might need to wait for a while or for a new release of the software.
+- In case of a new release, whether for bug fixes or new features, a notification will pop up when you launch the app.
 
 ## **Disclaimer & Terms of Use**
 
